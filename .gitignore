@@ -18,3 +18,7 @@ serving_dir
 *crc
 .venv
 .csv
+.parquet
+**data
+.jar
+**tmp
